@@ -6,6 +6,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:asm.dev81@gmail.com)
 </div>
 
+<div align="center">
+<h3>Sobre Mim:</h3>
+<p>Tenho 42 anos de idade, sou técnico em Informática com mais de 10 anos de experiência, buscando migrar para a carreira DEV;;</p>
+<p>Graduando em Análise e Desenvolvimento de Sistemas, estou me dedicando aos estudos da programação Web;</p>
+
+<h6>Ansioso para aplicar e aprimorar meus conhecimentos.</h6>
+</div>
+
+<br>
+
+<br>
 
 
 
